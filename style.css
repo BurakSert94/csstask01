@@ -1,0 +1,35 @@
+.title {
+    color: red;
+    text-align: center;
+}
+
+.title-two {
+    color: purple;
+}
+
+
+.title-color {
+    color: cornflowerblue;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+    
+}
+
+.margin-700 {
+    margin-left: 700px;
+}
+
+.margin-500 {
+    margin-left: 500px;
+}
